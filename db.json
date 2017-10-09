@@ -1,0 +1,36 @@
+{  
+   "locks":[  
+      {  
+         "type":"general",
+         "enabled":false
+      },
+      {  
+         "type":"internet",
+         "enabled":true
+      },
+      {  
+         "type":"international",
+         "enabled":true
+      },
+      {  
+         "type":"pos",
+         "enabled":true
+      },
+      {  
+         "type":"atm",
+         "enabled":false
+      },
+      {  
+         "type":"moto",
+         "enabled":false
+      },
+      {  
+         "type":"contactless",
+         "enabled":true
+      },
+      {  
+         "type":"walletcontactless",
+         "enabled":true
+      }
+   ]
+}
